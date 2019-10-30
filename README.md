@@ -23,8 +23,10 @@ This is an open course on Tensorflow 2.0 with code examples
 ## Week 3
 1. Tensorflow High Level API: Keras
 2. Tensorflow 1.x Recap
-3.
+3. The Machine Learning Pipeline
 
+## Week 4
+1. Data Loading and Preprocessing
 
 ## Projects
 1. Kaggle Projects will be demonstarted with 2.0
